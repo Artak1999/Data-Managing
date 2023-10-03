@@ -1,1 +1,1 @@
-# Data-Managing
+Simple Android application.
