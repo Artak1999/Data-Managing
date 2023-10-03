@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Data Managing</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get started</string>
+    <string name="enter_website_url">Enter website url</string>
+    <string name="scan">Scan</string>
+    <string name="scraping_from_icpc">Scraping from ICPC</string>
+    <string name="textview">TextView</string>
+    <string name="time">Time</string>
+    <string name="solved">Solved</string>
+    <string name="participant_team">Participant Team</string>
+    <string name="show_result">Show Result</string>
+    <string name="show_diagram">Show Diagram</string>
+</resources>
